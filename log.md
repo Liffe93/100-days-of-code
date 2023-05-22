@@ -1,30 +1,62 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 17, 2023 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Understanding how to traverse Linux  
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Having a scrip that informs me of the computer's memory, cpu, 777 files 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://github.com/Liffe93/bash/blob/main/basicInfo
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: May 18, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: webscrapping html code in python
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I want to automate this more. Where you enter the script name and a url and it can scrape more than the html. However, this is a good spot to start. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://github.com/Liffe93/OSINT/blob/main/request.HTML.py
 
 
-### Day 1: June 27, Monday
+### Day 2: May 21, 2023 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Learning webscrapin from XSS RAT 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** he had a cool crawler.txt that I want to look at... This was mostly a review on awk and sed. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+<img width="480" alt="Screen Shot 2023-05-21 at 7 39 59 PM" src="https://github.com/kallaway/100-days-of-code/assets/111470998/cbd77bfc-9c2f-4e0b-b114-7d6fb3061ca4">
+
+### Day 3: May 21, 2023 
+
+**Today's Progress**: Working on portscanning 
+
+**Thoughts** This is important coding skill to fully understand and commit to memory. Port scanning can be used to determine the security posture of a system, find open portts annd services, and identify potenttial targetts for malicous attacks. 
+
+**Link(s) to work**
+nmap -iL targets.txt
+nmap --script=http-shellshock <target> 
+  #list all website pages and direcory 
+nmap --script=http-sitemap-generator <target>
+  #DNS server snooping
+nmap --script=dns-cache-snoop <target>
+
+__. __. __. 
+### Day 4: May 22, 2023 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 5: May 21, 2023 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+  
+  
+  
+  future project ideas: https://www.youtube.com/watch?v=jAfQvMxcokI
