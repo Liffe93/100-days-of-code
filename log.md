@@ -40,15 +40,15 @@ nmap --script=http-sitemap-generator <target>
   #DNS server snooping
 nmap --script=dns-cache-snoop <target>
 
-__. __. __. 
 ### Day 4: May 22, 2023 
 
-**Today's Progress**: 
+**Today's Progress**:  Learning how to connect Google Drive API to python to run a webscrapping to Google Sheets script 
 
-**Thoughts** 
+**Thoughts** Inspiration is from (https://github.com/binarynightowl/corona_webscraper) 
 
-**Link(s) to work**
+**Link(s) to work** 
 
+  __. __. __. 
 ### Day 5: May 21, 2023 
 
 **Today's Progress**: 
