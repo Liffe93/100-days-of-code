@@ -40,14 +40,18 @@ nmap --script=http-sitemap-generator <target>
   #DNS server snooping
 nmap --script=dns-cache-snoop <target>
 
-### Day 4: May 22, 2023 
+**### Day 4: May 22, 2023 **
 
 **Today's Progress**:  Learning how to connect Google Drive API to python to run a webscrapping to Google Sheets script 
 
-**Thoughts** Inspiration is from (https://github.com/binarynightowl/corona_webscraper) 
+**Thoughts** Got the OAUTH 2.0 clientt-secret key downloaded and able to connect drive API to end-point. Was not able to get the main.py from the Corona-websscraping github to work. The issue states: "not found import scripts.sheets as gsheet and covid19_data" 
 
 **Link(s) to work** 
-
+Inspiration is from (https://github.com/binarynightowl/corona_webscraper) 
+Needed to understand how to connect drive api to python  🐍  (https://developers.google.com/drive/api/quickstart/python) 
+Found a great youtube video to follow: Python Project for Beginners | Browser automation and web scraping craigeslist (https://www.youtube.com/watch?v=s9jT2fVqNME) Will ues that tomorrow to scrape data on a musician that needs help creating a database of his music, splits and numbers.
+  
+  
   __. __. __. 
 ### Day 5: May 21, 2023 
 
