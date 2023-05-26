@@ -51,16 +51,26 @@ Inspiration is from (https://github.com/binarynightowl/corona_webscraper)
 Needed to understand how to connect drive api to python  🐍  (https://developers.google.com/drive/api/quickstart/python) 
 Found a great youtube video to follow: Python Project for Beginners | Browser automation and web scraping craigeslist (https://www.youtube.com/watch?v=s9jT2fVqNME) Will ues that tomorrow to scrape data on a musician that needs help creating a database of his music, splits and numbers.
   
-  
-  __. __. __. 
-### Day 5: May 21, 2023 
+ 
+### Day 5: May 23, 2023 
 
-**Today's Progress**: 
+**Today's Progress**: Researching how to better implement git
+
+**Thoughts** git is a tool to manage CI/CD. Branches are made to contain any edits. Commits are recorded in a log and you can go back to any past iteration whenever + copy it to the master code if something goes wrong. GitHub needs git... yet, it doesn't need github. 
+
+**Link(s) to work** https://www.youtube.com/watch?v=USjZcfj8yxE 
+git status
+  git add
+  git commit 
+  git branch 
+  
+  
+### Day 6: May 24, 2023 
+
+**Today's Progress**: Found some potential clients that would need a web scraper to gather artists royalty data. Will begin focusing my work on building this. 
 
 **Thoughts** 
 
 **Link(s) to work**
-  
-  
   
   future project ideas: https://www.youtube.com/watch?v=jAfQvMxcokI
