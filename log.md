@@ -69,8 +69,21 @@ git status
 
 **Today's Progress**: Found some potential clients that would need a web scraper to gather artists royalty data. Will begin focusing my work on building this. 
 
-**Thoughts** 
+**Thoughts** was able to download the HTML of an artists song register to BMI. 
+  NEED Select() ideas
 
 **Link(s) to work**
+  import requests
+res=requests.get('https://repertoire.bmi.com/Search/Catalog?num=KcdW2xRlEMR23Xhvza%252fmtA%253d%253d&cae=YO0HedHMatLb45JzS23DVw%253d%253d&partType=PerformerList&search=%7B%22Main_Search_Text%22%3A%22omer%20netzer%22%2C%22Sub_Search_Text%22%3Anull%2C%22Main_Search%22%3A%22Performer%22%2C%22Sub_Search%22%3Anull%2C%22Search_Type%22%3A%22all%22%2C%22View_Count%22%3A20%2C%22Page_Number%22%3A0%2C%22Part_Type%22%3Anull%2C%22Part_Id%22%3Anull%2C%22Part_Id_Sub%22%3Anull%2C%22Part_Name%22%3Anull%2C%22Part_Cae%22%3Anull%2C%22Original_Search%22%3Anull%2C%22DisclaimerViewed%22%3Anull%7D&resetPageNumber=True')
+res.raise_for_status()
+playFile=open('PlaceToStart.Omer.BMI.txt', 'wb')
+for chunk in res.iter_content(1000000):
+    playFile.write(chunk)
+
+    
+27428
+
+
+  
   
   future project ideas: https://www.youtube.com/watch?v=jAfQvMxcokI
