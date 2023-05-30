@@ -83,7 +83,20 @@ for chunk in res.iter_content(1000000):
     
 27428
 
+  -- took MDW off --
+ ### Day 7: May 30, 2023 
+
+**Today's Progress**: Still working on helping a media company back log their music royalties. Testing out download homebrew and wget 
+
+**Thoughts** 
+
+**Link(s) to work**
+  https://docs.brew.sh/Installation
+  https://www.cyberciti.biz/faq/howto-install-wget-om-mac-os-x-mountain-lion-mavericks-snow-leopard/
+  https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
 
   
   
-  future project ideas: https://www.youtube.com/watch?v=jAfQvMxcokI
+  future project ideas: 
+  https://www.youtube.com/watch?v=jAfQvMxcokI
+  https://developers.google.com/apps-script/guides/menus
