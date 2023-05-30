@@ -119,10 +119,11 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
 
 
   
-**Link(s) to work**
-  https://docs.brew.sh/Installation
-  https://www.cyberciti.biz/faq/howto-install-wget-om-mac-os-x-mountain-lion-mavericks-snow-leopard/
-  https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
+**Link(s)**
+homebrew home:  https://docs.brew.sh/Installation
+ homebrew github: https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
+  wget mann page: https://www.gnu.org/software/wget/manual/wget.html
+ Python & wget https://www.scrapingbee.com/blog/python-wget/
 
   
   
