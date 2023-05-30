@@ -88,8 +88,15 @@ for chunk in res.iter_content(1000000):
 
 **Today's Progress**: Still working on helping a media company back log their music royalties. Testing out download homebrew and wget 
 
-**Thoughts** 
-  WHAT DO ALL THE SWITCHES MEAN:
+**Thoughts** wget doesn't work with http(s) ... on to try somethin else 
+
+  
+**Link(s)**
+homebrew home:  https://docs.brew.sh/Installation
+ homebrew github: https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
+  wget mann page: https://www.gnu.org/software/wget/manual/wget.html
+ Python & wget https://www.scrapingbee.com/blog/python-wget/
+notes: WHAT DO ALL THE SWITCHES MEAN:
 --limit-rate=200k limit download to 200 Kb /sec
 
 --no-clobber don't overwrite any existing files (used in case the download is interrupted and resumed).
@@ -116,14 +123,6 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
 --domain=steviehoward.com didn't include because this is hosted by Google so it might need to step into Google's domains
 
 --restrict-file-names=windows modify filenames so that they will work in Windows as well. Seems to work okay without this.
-
-
-  
-**Link(s)**
-homebrew home:  https://docs.brew.sh/Installation
- homebrew github: https://gist.github.com/stvhwrd/985dedbe1d3329e68d70
-  wget mann page: https://www.gnu.org/software/wget/manual/wget.html
- Python & wget https://www.scrapingbee.com/blog/python-wget/
 
   
   
