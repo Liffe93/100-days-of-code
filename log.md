@@ -89,7 +89,36 @@ for chunk in res.iter_content(1000000):
 **Today's Progress**: Still working on helping a media company back log their music royalties. Testing out download homebrew and wget 
 
 **Thoughts** 
+  WHAT DO ALL THE SWITCHES MEAN:
+--limit-rate=200k limit download to 200 Kb /sec
 
+--no-clobber don't overwrite any existing files (used in case the download is interrupted and resumed).
+
+--convert-links convert links so that they work locally, off-line, instead of pointing to a website online
+
+--random-wait random waits between download - websites dont like their websites downloaded
+
+-r recursive - downloads full website
+
+-p downloads everything even pictures (same as --page-requsites, downloads the images, css stuff and so on)
+
+-E gets the right extension of the file, without most html and other files have no extension
+
+-e robots=off act like we are not a robot - not like a crawler - websites dont like robots/crawlers unless they are google/or other famous search engine
+
+-U mozilla pretends to be just like a browser Mozilla is looking at a page instead of a crawler like wget
+
+PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
+-o=/websitedl/wget1.txt log everything to wget_log.txt - didn't do this because it gave me no output on the screen and I don't like that.
+
+-b runs it in the background and I can't see progress... I like "nohup &" better
+
+--domain=steviehoward.com didn't include because this is hosted by Google so it might need to step into Google's domains
+
+--restrict-file-names=windows modify filenames so that they will work in Windows as well. Seems to work okay without this.
+
+
+  
 **Link(s) to work**
   https://docs.brew.sh/Installation
   https://www.cyberciti.biz/faq/howto-install-wget-om-mac-os-x-mountain-lion-mavericks-snow-leopard/
