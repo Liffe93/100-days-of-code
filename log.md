@@ -124,6 +124,19 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
 
 --restrict-file-names=windows modify filenames so that they will work in Windows as well. Seems to work okay without this.
 
+
+  _____brother went to ER - took 6 days off ___ 
+  
+  ### Day 8: June 6, 2023 
+
+**Today's Progress**: Opening virtual machine with python 
+
+**Thoughts** Love VM's and have used vitrualBox extensively. Thought creating a python VM would be ideal 
+
+**Link(s) to work**
+  My Code: https://github.com/Liffe93/bash/blob/main/pythonVM
+ Reference:  https://gist.github.com/nrollr/e295c3bdb8858c4c2df7571fa795402b
+  
   
   
   future project ideas: 
