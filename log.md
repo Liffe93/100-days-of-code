@@ -137,7 +137,26 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
   My Code: https://github.com/Liffe93/bash/blob/main/pythonVM
  Reference:  https://gist.github.com/nrollr/e295c3bdb8858c4c2df7571fa795402b
   
+  ### Day 9: June 7, 2023 
+
+**Today's Progress**: Comparing html export with python code and the "file/save page as" functions.  
+
+**Thoughts** you receie more in depth code with you export via "file/save page as." Now, I need to find a way to go to the website, searxh for the artists name, then download the code + beautiful soup for the parts needed. This will be more indepth because BMI hasd a seperate page for each song... I wonder if it's ethical to go straight to their SQL database and then I don't need to open all the pages. 
   
+  I did find that with Sound Exchange you can easily search and export as a .csv file all of an artists songs + isrcs 
+
+**Link(s) to work** 
+  
+  ### Day 10: June 9, 2023 
+
+**Today's Progress**: 
+
+**Thoughts**  
+
+**Link(s) to work**
+  
+  
+  ________________________________________
   
   future project ideas: 
   https://www.youtube.com/watch?v=jAfQvMxcokI
