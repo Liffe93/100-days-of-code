@@ -137,7 +137,45 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
   My Code: https://github.com/Liffe93/bash/blob/main/pythonVM
  Reference:  https://gist.github.com/nrollr/e295c3bdb8858c4c2df7571fa795402b
   
-  
+
+  ### Day 9: June 7, 2023 
+
+**Today's Progress**: Google IT Online Course 
+
+**Thoughts** Basic overview all computer parts 
+https://www.coursera.org/learn/technical-support-fundamentals
+
+
+   ### Day 10: June 8, 2023 
+
+**Today's Progress**: Google IT Online Course
+
+**Thoughts** Basic overview of scripting to look at computer networks 
+
+**Link(s) to work**
+https://www.coursera.org/learn/technical-support-fundamentals
+
+   ### Day 11: June 12, 2023 
+
+**Today's Progress**: Webscraping
+
+**Thoughts** Found out The MLC has an API focused web browser that could lead to better webscraping per the payload. 
+
+
+
+   ### Day 12: June 15, 2023 
+
+**Today's Progress**: Nahamcon CTF starts 
+
+**Thoughts** A lot harder than I expected. Needed to work on better Googling - what are the right questions to ask. I was able to solve one flag by looking at the source code of the website 
+Played a lot with decryption and sqlite3 
+
+
+   ### Day 13: June 16, 2023 
+
+**Today's Progress**: Nahamcon CTF continued 
+
+**Thoughts** Was able to find 2 other flags. I learned more about XSS injection, writing recon code in python using python pickle and how to trouble shoot a OSINT recon script. 
   
   future project ideas: 
   https://www.youtube.com/watch?v=jAfQvMxcokI
