@@ -137,8 +137,21 @@ PURPOSELY DIDN'T INCLUDE THE FOLLOWING:
   My Code: https://github.com/Liffe93/bash/blob/main/pythonVM
  Reference:  https://gist.github.com/nrollr/e295c3bdb8858c4c2df7571fa795402b
   
+
+  ### Day 9: Sept 22, 2023 
+
+**Today's Progress**: NO EXCUSES for not keeping to this. I started edX cs50 to help me stay focused. 
+
+**Thoughts** cs50 from havard has reminded me of the basics of binary and how to formaulate funations and variables via stratch and VScode 
+
+**Link(s) to work**
+
+  
+
   
   
   future project ideas: 
   https://www.youtube.com/watch?v=jAfQvMxcokI
   https://developers.google.com/apps-script/guides/menus
+
+
